@@ -115,4 +115,4 @@
                 "\nSalary: " + this.salary +
                 "\nFull Time: " + bool;
     }
-}
+}// end class 
